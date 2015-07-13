@@ -1,2 +1,2 @@
 # DS_Algo
-Collection of Data Structures and Algorithms
+Collection of Data Structures / Algorithms
